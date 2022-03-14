@@ -1,1 +1,1 @@
-# coindesk
+# CoinDesk
