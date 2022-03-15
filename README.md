@@ -2,7 +2,7 @@
 
 Use the Requests, pandas, and BeautifulSoup package to collect book information from http://books.toscrape.com/ 
 
-By changing the lookup list on the last cell (under the #Main code), the program will starts collecting book information from each category and output as excel file. The default setting in lookup list is ['Science, 'Poetry']. 
+By changing the lookup list in the last cell (under the #Main code), the program will starts collecting book information from each category and output as excel file. The default setting in lookup list is ['Science, 'Poetry']. 
 
 The full list that can be put into the lookup list: ['Travel', 'Mystery', 'Historical Fiction', 'Sequential Art', 'Classics', 'Philosophy', 'Romance', 'Womens Fiction', 'Fiction', 'Childrens', 'Religion', 'Nonfiction', 'Music', 'Default', 'Science Fiction', 'Sports and Games', 'Add a comment', 'Fantasy', 'New Adult', 'Young Adult', 'Science', 'Poetry', 'Paranormal', 'Art', 'Psychology', 'Autobiography', 'Parenting', 'Adult Fiction', 'Humor', 'Horror', 'History', 'Food and Drink', 'Christian Fiction', 'Business', 'Biography', 'Thriller', 'Contemporary', 'Spirituality', 'Academic', 'Self Help', 'Historical', 'Christian', 'Suspense', 'Short Stories', 'Novels', 'Health', 'Politics', 'Cultura', 'Erotica', 'Crime']
 
